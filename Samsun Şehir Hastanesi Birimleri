@@ -1,0 +1,18 @@
+bolumler.json
+[
+  {
+    "blok": "A Blok",
+    "kat": "7. Kat",
+    "ad": "Üroloji Servisi 1-2"
+  },
+  {
+    "blok": "B Blok",
+    "kat": "Zemin Kat",
+    "ad": "Kardiyoloji Poliklinikleri"
+  },
+  {
+    "blok": "C Blok",
+    "kat": "Zemin Kat",
+    "ad": "Acil Servis"
+  }
+]
