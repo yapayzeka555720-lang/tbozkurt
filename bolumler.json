@@ -14,5 +14,10 @@ bolumler.json
     "blok": "C Blok",
     "kat": "Zemin Kat",
     "ad": "Acil Servis"
+  },
+    {
+    "blok": "A Blok",
+    "kat": "99. Kat",
+    "ad": "GitHub Test Birimi"
   }
 ]
