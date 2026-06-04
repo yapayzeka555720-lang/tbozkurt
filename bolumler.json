@@ -120,6 +120,7 @@
     {"blok": "B Blok", "kat": "-2 Kat", "ad": "Çocuk Sağlığı ve Hastalıkları Poliklinikleri"},
     {"blok": "B Blok", "kat": "-2 Kat", "ad": "Adli Tabiplik"},
     {"blok": "B Blok", "kat": "-2 Kat", "ad": "Enfeksiyon Hastalıkları Poliklinikleri"},
+    {"blok": "B Blok", "kat": "-2 Kat", "ad": "İş Yeri Hekimliği"},
     {"blok": "B Blok", "kat": "-2 Kat", "ad": "Nükleer Tıp Merkezi"},
     {"blok": "B Blok", "kat": "-2 Kat", "ad": "Radyoterapi Ünitesi"},
     {"blok": "B Blok", "kat": "-2 Kat", "ad": "Radyoaktif Tedavi Ünitesi"},
@@ -170,4 +171,5 @@
     {"blok": "C Blok", "kat": "-2 Kat", "ad": "Gastroenteroloji Endoskopi Ünitesi"},
     {"blok": "C Blok", "kat": "-3 Kat", "ad": "Sporcu Sağlığı Merkezi"},
     {"blok": "C Blok", "kat": "-3 Kat", "ad": "Kapalı Otopark"},
+    {"blok": "TSB Binası", "kat": "Zemin Kat", "ad": "İş Güvenliği"},
   ]
