@@ -156,7 +156,7 @@
   {"blok": "C Blok", "kat": "-1 Kat", "ad": "Mamografi"},
   {"blok": "C Blok", "kat": "-2 Kat", "ad": "Poliklinikler A-B Blok"},
   {"blok": "C Blok", "kat": "-2 Kat", "ad": "Gastroenteroloji Endoskopi Ünitesi"},
-  {"blok": "C Blok", "kat": "-3 Kat", "ad": "Bilgi İşlem Birimi"},
-  {"blok": "C Blok", "kat": "-3 Kat", "ad": "Sporcu Sağlığı Merkezi"},
+  {"blok": "C Blok", "kat": "- Kat", "ad": "Bilgi İşlem Birimi"},
+  {"blok": "C Blok", "kat": "-2 Kat", "ad": "Sporcu Sağlığı Merkezi"},
     {"blok": "C Blok", "kat": "-3 Kat", "ad": "Kapalı Otopark"}
 ]
