@@ -159,6 +159,7 @@
   {"blok": "C Blok", "kat": "-2 Kat", "ad": "Bilgi İşlem Birimi"},
   {"blok": "C Blok", "kat": "-2 Kat", "ad": "Sporcu Sağlığı Merkezi"},
   {"blok": "TSB Binası", "kat": "Zemin Kat", "ad": "İş Güvenliği"},
-  {"blok": "TSB Binası", "kat": "1. Kat", "ad": "İşyeri Hekimliği"},
+  {"blok": "TSB Binası", "kat": "Zemin Kat", "ad": "Sivil Savunma"},
+  {"blok": "TSB Binası", "kat": "Zemin Kat", "ad": "Mühendislik Birimleri"},
   {"blok": "C Blok", "kat": "-3 Kat", "ad": "Kapalı Otopark"}
 ]
